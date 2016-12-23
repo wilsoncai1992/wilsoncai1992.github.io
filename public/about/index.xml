@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About-rsses on Wilson Cai</title>
+    <link>http://www.stat.berkeley.edu/~wcai/about/index.xml</link>
+    <description>Recent content in About-rsses on Wilson Cai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Wed, 09 Mar 2016 00:11:02 +0100</lastBuildDate>
+    <atom:link href="http://www.stat.berkeley.edu/~wcai/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wilson (Weixin) Cai</title>
+      <link>http://www.stat.berkeley.edu/~wcai/about/</link>
+      <pubDate>Wed, 09 Mar 2016 00:11:02 +0100</pubDate>
+      
+      <guid>http://www.stat.berkeley.edu/~wcai/about/</guid>
+      <description>
+
+&lt;p&gt;&lt;img style=&#34;float: left;&#34; src=&#34;./IMG_7979.jpg&#34;&gt;
+&lt;!-- &lt;img style=&#34;float: left;&#34; src=&#34;../../static/IMG_7979.jpg&#34;&gt; --&gt;&lt;/p&gt;
+
+&lt;p&gt;I am a second year graduate student in Biostatistics Department at UC Berkeley and I am fortunate to be advised by Professors Mark van der Laan and Alan Hubbard. My research interests lie in Statistical Machine Learning and Causal Inference. Prior to Berkeley, I obtained a Bachelors (B.Sc.) degree in Statistics and double major in Finance from Univeristy of Hong Kong.&lt;/p&gt;
+
+&lt;p&gt;Here is the latest version of my &lt;a href=&#34;link&#34;&gt;CV&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;education&#34;&gt;EDUCATION&lt;/h2&gt;
+
+&lt;h2 id=&#34;experience&#34;&gt;EXPERIENCE&lt;/h2&gt;
+
+&lt;h2 id=&#34;selected-awards&#34;&gt;SELECTED AWARDS&lt;/h2&gt;
+
+&lt;h2 id=&#34;contact&#34;&gt;CONTACT&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

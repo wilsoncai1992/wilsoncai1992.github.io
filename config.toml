@@ -1,0 +1,73 @@
+baseurl = "http://www.stat.berkeley.edu/~wcai/"
+languageCode = "en-us"
+title = "Wilson Cai"
+theme = "hugo-material-docs"
+metadataformat = "yaml"
+canonifyurls = true
+# Enable Google Analytics by entering your tracking id
+googleAnalytics = ""
+
+[params]
+	# General information
+	author = "wilsoncai1992"
+	description = "A material design theme for documentations."
+	copyright = "Released under the MIT license"
+
+	# Repository
+	provider = ""
+	repo_url = ""
+
+	version = ""
+	logo = ""
+	favicon = ""
+
+	permalink = "#"
+
+	# Custom assets
+	custom_css = []
+	custom_js  = []
+
+	# Syntax highlighting theme
+	highlight_css  = ""
+
+	[params.palette]
+    	primary = "cyan"
+    	accent  = "blue"
+
+    [params.font]
+    	text = "Ubuntu"
+    	code = "Ubuntu Mono"
+
+
+[social]
+	twitter = ""
+	github  = "wilsoncai1992"
+	email   = "wcai@berkeley.edu"
+
+
+[[menu.main]]
+	name   = "About"
+	url    = "about/"
+	weight = 0
+
+
+[[menu.main]]
+	name   = "Research"
+	url    = "research/"
+	weight = 10
+
+[[menu.main]]
+	name   = "Teaching"
+	url    = "teach/"
+	weight = 20
+
+[[menu.main]]
+	name   = "Software"
+	url    = "software/"
+	weight = 30
+
+[blackfriday]
+	smartypants	= true
+	fractions = true
+	smartDashes = true
+	plainIDAnchors = true
