@@ -12,9 +12,9 @@ weight: 10
 <br>
 <br>
 
-I am a second year Ph.D. student in [Biostatistics](www.stat.berkeley.edu/biostat) at UC Berkeley. I am fortunate to be advised by Professors [Mark van der Laan](www.stat.berkeley.edu/~laan/) and [Alan Hubbard](http://hubbard.berkeley.edu/). My research interests lie in **Statistical Machine Learning** and **Causal Inference**. 
+I am a second year Ph.D. student in [Biostatistics](http://www.stat.berkeley.edu/biostat) at UC Berkeley. I am fortunate to be advised by Professors [Mark van der Laan](http://www.stat.berkeley.edu/~laan/) and [Alan Hubbard](http://hubbard.berkeley.edu/). My research interests lie in **Statistical Machine Learning** and **Causal Inference**. 
 
-Prior to Berkeley, I was a visiting researcher at [UC Davis](www.stat.ucdavis.edu/) working with [Prabir Burman](www.stat.ucdavis.edu/~burman/). Before that, I obtained a Bachelors (B.Sc.) degree in Statistics and double major in Finance from [the Univeristy of Hong Kong](hku.hk).
+Prior to Berkeley, I was a visiting researcher at [UC Davis](http://www.stat.ucdavis.edu/) working with [Prabir Burman](http://www.stat.ucdavis.edu/~burman/). Before that, I obtained a Bachelors (B.Sc.) degree in Statistics and double major in Finance from [the Univeristy of Hong Kong](http://hku.hk).
 
 Here is the latest version of my [CV](link).
 

@@ -9,18 +9,18 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=10" />
-    <title>Adding content - Wilson Cai</title>
+    <title>Research - Wilson Cai</title>
     <meta name="generator" content="Hugo 0.17" />
 
     
     <meta name="description" content="A material design theme for documentations.">
     
-    <link rel="canonical" href="http://www.stat.berkeley.edu/~wcai/adding-content/">
+    <link rel="canonical" href="http://www.stat.berkeley.edu/~wcai/research/">
     
     <meta name="author" content="wilsoncai1992">
     
 
-    <meta property="og:url" content="http://www.stat.berkeley.edu/~wcai/adding-content/">
+    <meta property="og:url" content="http://www.stat.berkeley.edu/~wcai/research/">
     <meta property="og:title" content="Wilson Cai">
     
     <meta name="apple-mobile-web-app-title" content="Wilson Cai">
@@ -94,7 +94,7 @@
     </div>
     <div class="stretch">
       <div class="title">
-        Adding content
+        Research
       </div>
     </div>
 
@@ -173,27 +173,9 @@
 
 
 
-<a  title="Getting started" href="http://www.stat.berkeley.edu/~wcai/getting-started/">
+<a class="current" title="Research" href="http://www.stat.berkeley.edu/~wcai/research/">
 	
-	Getting started
-</a>
-
-
-
-  
-</li>
-
-
-
-<li>
-  
-    
-
-
-
-<a class="current" title="Adding content" href="http://www.stat.berkeley.edu/~wcai/adding-content/">
-	
-	Adding content
+	Research
 </a>
 
 
@@ -212,9 +194,9 @@
 
 
 
-<a  title="Roadmap" href="http://www.stat.berkeley.edu/~wcai/roadmap/">
+<a  title="Teaching" href="http://www.stat.berkeley.edu/~wcai/teach/">
 	
-	Roadmap
+	Teaching
 </a>
 
 
@@ -230,9 +212,9 @@
 
 
 
-<a  title="License" href="http://www.stat.berkeley.edu/~wcai/license/">
+<a  title="Software" href="http://www.stat.berkeley.edu/~wcai/software/">
 	
-	License
+	Software
 </a>
 
 
@@ -277,63 +259,38 @@
 
 	<article class="article">
 		<div class="wrapper">
-			<h1>Adding content </h1>
+			<h1>Research </h1>
 
 			
 
-<h2 id="hello-world">Hello world</h2>
+<h2 id="publications">Publications</h2>
 
-<p>Let&rsquo;s create our first content file for your documentation. Open a terminal and add the following command for each new file you want to add. Replace <code>&lt;section-name&gt;</code> with a general term that describes your document in detail.</p>
+<ol>
+<li><strong>Cai, Weixin</strong> and van der Laan, Mark J., ``One-step targeted maximum likelihood estimator for survival curve&rdquo;, <em>To appear in Targeted Learning in Data Science: Causal Inference for Complex Longitudinal Studies</em>. Springer, 2016.</li>
+<li><strong>Cai, Weixin</strong> and van der Laan, Mark J., ``One-step targeted maximum likelihood for time-to-event outcomes&rdquo;, <em>In preparation</em>, 2016.</li>
+<li><strong>Cai, Weixin</strong> and Hubbard, Alan E., ``Data-adaptive statistics for multiple hypothesis testing in high-dimensional settings&rdquo;, <em>In preparation</em>, 2016.</li>
+<li>Li, Lexin, <strong>Cai, Weixin</strong>, Zhou, Hua, Arnemann, Katelyn, and Jagust, William, ``Sparse symmetric tensor regression for association modeling of brain functional connectivity&rdquo;, <em>Submitted to NeuroImage</em>, 2016.</li>
+<li><strong>Cai, Weixin</strong>, Burman, Prabir, and Patrick, Joshua D., ``Semiparametric heteroscedastic model for seasonal time series&rdquo;, <em>Submitted to Journal of Time Series Analysis</em>, 2014.</li>
+<li><strong>Cai, Weixin</strong>, Patrick, Joshua D., and Burman, Prabir, ``Oracally efficient spline smoothing of functional coefficient regression models with simultaneous confidence band&rdquo;, <em>JSM Proceedings, Nonparametric Statistics Section</em>, 2014.</li>
+<li><strong>Cai, Weixin</strong>, Aue, Alexander, and Paul, Debashis, ``Bias correction for high-dimensional markowitz problem under linear temporal dependence&rdquo;, <em>In Preparation</em>.</li>
+<li><strong>Cai, Weixin</strong> and Yu, Philip L.H., ``Multivariate buffered autoregression model&rdquo;, <em>Senior Thesis, The University of Hong Kong</em>, 2015.</li>
+</ol>
 
-<pre><code class="language-sh">hugo new &lt;section-name&gt;/filename.md
-</code></pre>
+<h2 id="talks-slides">Talks/Slides</h2>
 
-<p>Visitors of your website will find the final document under <code>www.example.com/&lt;section-name&gt;/filename/</code>.</p>
+<ol>
+<li><p><strong>Symmetric Tensor Regression with Applications in Neuroimaging Data Analysis</strong>, 08/2016 <br>
+Joint Statistics Meetings 2016, Chicago. <a href="link">(Slides)</a></p></li>
 
-<p>Since it&rsquo;s possible to have multiple content files in the same section I recommend to create at least one <code>index.md</code> file per section. This ensures that users will find an index page under <code>www.example.com/&lt;section-name&gt;</code>.</p>
+<li><p><strong>Symmetric Tensor Regression with Applications in Neuroimaging Data Analysis</strong>, 06/2016 <br>
+SFASA award invited seminar, Stanford. <a href="link">(Slides)</a></p></li>
 
-<h2 id="homepage">Homepage</h2>
+<li><p><strong>Symmetric Tensor Regression and Neuroimaging Data Analysis</strong>, 03/2016 <br>
+BSTARS lightning talk, Berkeley. <a href="link">(Slides)</a></p></li>
 
-<p>To add content to the homepage you need to add a small indicator to the frontmatter of the content file:</p>
-
-<pre><code class="language-toml">type: index
-</code></pre>
-
-<p>Otherwise the theme will not be able to find the corresponding content file.</p>
-
-<h2 id="table-of-contents">Table of contents</h2>
-
-<p>You maybe noticed that the menu on the left contains a small table of contents of the current page. All <code>&lt;h2&gt;</code> tags (<code>## Headline</code> in Markdown) will be added automatically.</p>
-
-<h2 id="admonitions">Admonitions</h2>
-
-<p>Admonition is a handy feature that adds block-styled side content to your documentation, for example hints, notes or warnings. It can be enabled by using the corresponding <a href="http://gohugo.io/extras/shortcodes/">shortcodes</a> inside your content:</p>
-
-<pre><code class="language-go">{{&lt; note title=&quot;Note&quot; &gt;}}
-Nothing to see here, move along.
-{{&lt; /note &gt;}}
-</code></pre>
-
-<p>This will print the following block:</p>
-
-<div class="admonition note">
-<p class="admonition-title">Note</p>
-<p>Nothing to see here, move along.</p>
-</div>
-
-<p>The shortcode adds a neutral color for the note class and a red color for the warning class. You can also add a custom title:</p>
-
-<pre><code class="language-go">{{&lt; warning title=&quot;Don't try this at home&quot; &gt;}}
-Nothing to see here, move along.
-{{&lt; /warning &gt;}}
-</code></pre>
-
-<p>This will print the following block:</p>
-
-<div class="admonition warning">
-<p class="admonition-title">Don&#39;t try this at home</p>
-<p>Nothing to see here, move along.</p>
-</div>
+<li><p><strong>Oracally Efficient Spline Smoothing of Functional Coefficient Regression Models with Simultaneous Confidence Band</strong>, 08/2014 <br>
+Joint Statistics Meetings 2014, Seattle. <a href="link">(Slides)</a></p></li>
+</ol>
 
 
 			<aside class="copyright" role="note">
@@ -352,34 +309,18 @@ Nothing to see here, move along.
 <nav class="pagination" aria-label="Footer">
   <div class="previous">
   
-      <a href="http://www.stat.berkeley.edu/~wcai/about/" title="Wilson (Weixin) Cai">
-        <span class="direction">
-          Previous
-        </span>
-        <div class="page">
-          <div class="button button-previous" role="button" aria-label="Previous">
-            <i class="icon icon-back"></i>
-          </div>
-          <div class="stretch">
-            <div class="title">
-              Wilson (Weixin) Cai
-            </div>
-          </div>
-        </div>
-      </a>
-  
   </div>
 
   <div class="next">
   
-      <a href="http://www.stat.berkeley.edu/~wcai/roadmap/" title="Roadmap">
+      <a href="http://www.stat.berkeley.edu/~wcai/software/" title="Software">
         <span class="direction">
           Next
         </span>
         <div class="page">
           <div class="stretch">
             <div class="title">
-              Roadmap
+              Software
             </div>
           </div>
           <div class="button button-next" role="button" aria-label="Next">
@@ -457,6 +398,38 @@ Nothing to see here, move along.
       }
     </script>
 
+    
+      <script>
+        (function(i,s,o,g,r,a,m){
+          i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||
+          []).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;
+          m.parentNode.insertBefore(a,m)
+        })(window, document,
+          'script', '//www.google-analytics.com/analytics.js', 'ga');
+         
+        ga('create', 'UA-89370962-1', 'auto');
+        ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
+         
+        var buttons = document.querySelectorAll('a');
+        Array.prototype.map.call(buttons, function(item) {
+          if (item.host != document.location.host) {
+            item.addEventListener('click', function() {
+              var action = item.getAttribute('data-action') || 'follow';
+              ga('send', 'event', 'outbound', action, item.href);
+            });
+          }
+        });
+         
+        var query = document.querySelector('.query');
+        query.addEventListener('blur', function() {
+          if (this.value) {
+            var path = document.location.pathname;
+            ga('send', 'pageview', path + '?q=' + this.value);
+          }
+        });
+      </script>
     
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
