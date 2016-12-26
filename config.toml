@@ -11,7 +11,7 @@ googleAnalytics = "UA-89370962-1"
 	# General information
 	author = "wilsoncai1992"
 	description = "Ph.D. in Statistics"
-	copyright = "Released under the MIT license"
+	copyright = "Wilson Cai"
 
 	# Repository
 	provider = ""
