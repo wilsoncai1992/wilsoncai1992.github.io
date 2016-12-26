@@ -90,21 +90,18 @@ with Prof. Mark J. van der Laan&lt;/li&gt;
       <guid>http://www.stat.berkeley.edu/~wcai/about/</guid>
       <description>
 
-&lt;p&gt;&lt;img style=&#34;float: left;margin:0 5rem 0 0&#34; src=&#34;IMG_7979.jpg&#34; width=&#34;30%&#34; height=&#34;30%&#34;&gt;
-&lt;!-- &lt;img style=&#34;float: left;&#34; src=&#34;../../static/IMG_7979.jpg&#34;&gt; --&gt;
-&lt;br&gt;
-&lt;br&gt;
+&lt;p&gt;&lt;img style=&#34;float: left;margin:0 5rem 0 0&#34; src=&#34;IMG_7950-2.jpg&#34; width=&#34;35%&#34; height=&#34;35%&#34;&gt;
 &lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;I am a second year Ph.D. student in &lt;a href=&#34;www.stat.berkeley.edu/biostat&#34;&gt;Biostatistics&lt;/a&gt; at UC Berkeley. I am fortunate to be advised by Professors &lt;a href=&#34;www.stat.berkeley.edu/~laan/&#34;&gt;Mark van der Laan&lt;/a&gt; and &lt;a href=&#34;http://hubbard.berkeley.edu/&#34;&gt;Alan Hubbard&lt;/a&gt;. My research interests lie in &lt;strong&gt;Statistical Machine Learning&lt;/strong&gt; and &lt;strong&gt;Causal Inference&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I am a second year Ph.D. student in &lt;a href=&#34;http://www.stat.berkeley.edu/biostat&#34;&gt;Biostatistics&lt;/a&gt; at &lt;a href=&#34;http://statistics.berkeley.edu/&#34;&gt;UC Berkeley&lt;/a&gt;. I am fortunate to be advised by Professors &lt;a href=&#34;http://www.stat.berkeley.edu/~laan/&#34;&gt;Mark van der Laan&lt;/a&gt; and &lt;a href=&#34;http://hubbard.berkeley.edu/&#34;&gt;Alan Hubbard&lt;/a&gt;. My research interests lie in &lt;strong&gt;Statistical Machine Learning&lt;/strong&gt; and &lt;strong&gt;Causal Inference&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Prior to Berkeley, I was a visiting researcher at &lt;a href=&#34;www.stat.ucdavis.edu/&#34;&gt;UC Davis&lt;/a&gt; working with &lt;a href=&#34;www.stat.ucdavis.edu/~burman/&#34;&gt;Prabir Burman&lt;/a&gt;. Before that, I obtained a Bachelors (B.Sc.) degree in Statistics and double major in Finance from &lt;a href=&#34;hku.hk&#34;&gt;the Univeristy of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I graduated from &lt;a href=&#34;http://hku.hk&#34;&gt;the Univeristy of Hong Kong&lt;/a&gt; with a B.Sc. (Honors) in &lt;a href=&#34;http://www.saasweb.hku.hk/&#34;&gt;Statistics&lt;/a&gt; and double major in &lt;a href=&#34;http://fbe.hku.hk/&#34;&gt;Finance&lt;/a&gt;. I was awarded the &lt;a href=&#34;http://www.saasweb.hku.hk/programme/scholarship.php&#34;&gt;Saw Gold Medal in Statistics&lt;/a&gt; (magna cum laude) and &lt;a href=&#34;http://tl.hku.hk/urfp/&#34;&gt;Undergraduate Research Fellowship&lt;/a&gt; during my graduation at HKU.&lt;/p&gt;
+
+&lt;p&gt;Prior to joining UC Berkeley, I was a visiting researcher at &lt;a href=&#34;http://www.stat.ucdavis.edu/&#34;&gt;UC Davis&lt;/a&gt; working with &lt;a href=&#34;http://www.stat.ucdavis.edu/~burman/&#34;&gt;Prabir Burman&lt;/a&gt;. I also worked under the able guidance of &lt;a href=&#34;http://www.stat.ucdavis.edu/~alexaue/&#34;&gt;Prof. Alexander Aue&lt;/a&gt; and &lt;a href=&#34;http://www.stat.ucdavis.edu/~debashis/&#34;&gt;Prof. Debashis Paul&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Here is the latest version of my &lt;a href=&#34;link&#34;&gt;CV&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;education&#34;&gt;EDUCATION&lt;/h2&gt;
@@ -122,10 +119,20 @@ with Prof. Mark J. van der Laan&lt;/li&gt;
 
 &lt;h2 id=&#34;experience&#34;&gt;EXPERIENCE&lt;/h2&gt;
 
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Precision Medicine Researcher&lt;/strong&gt;, 2017 - present&lt;br&gt;
+&lt;em&gt;Bill &amp;amp; Melinda Gates Foundation&lt;/em&gt; &lt;br&gt;
+&lt;blockquote&gt;Wasting is a lack of growth in terms of weight/height among African children. I applied Targeted Learning to help better curing &lt;em&gt;individual children&lt;/em&gt;.&lt;/blockquote&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Data Analyst to President&lt;/strong&gt;, 2013 &lt;br&gt;
+&lt;em&gt;China Europe International Business School&lt;/em&gt; &lt;br&gt;
+&lt;blockquote&gt;We are the first Chinese MBA program to integrate cutting-edge Big Data into curriculum.&lt;/blockquote&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;selected-awards&#34;&gt;SELECTED AWARDS&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;JSM Student Travel Awards, SF Bay Area Chapter of the ASA&lt;/strong&gt;, 04/2016 &lt;br&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;JSM Student Travel Awards, SF Bay Area Chapter of the ASA&lt;/strong&gt;, 04/2016 [&lt;a href=&#34;http://www.sfasa.org/June7_2016mtg.htm&#34;&gt;News&lt;/a&gt;]&lt;br&gt;
 &lt;em&gt;SFASA&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Saw Gold Medal in Statistics&lt;/strong&gt;, 04/2016 &lt;br&gt;
@@ -144,6 +151,7 @@ with Prof. Mark J. van der Laan&lt;/li&gt;
 &lt;h2 id=&#34;contact&#34;&gt;CONTACT&lt;/h2&gt;
 
 &lt;p&gt;Email: &lt;a href=&#34;mailto:wcai@berkeley.edu&#34;&gt;wcai [at] berkeley [dot] edu&lt;/a&gt; &lt;br&gt;
+Office: 101 Haviland Hall, Berkeley &lt;br&gt;
 &lt;a href=&#34;link&#34;&gt;Google scholar profile&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/wilsoncai&#34;&gt;Linkedin&lt;/a&gt;&lt;/p&gt;
 </description>
