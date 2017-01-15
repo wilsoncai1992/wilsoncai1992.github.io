@@ -1,4 +1,4 @@
-baseurl = "http://www.stat.berkeley.edu/~wcai/"
+baseurl = "https://www.stat.berkeley.edu/~wcai/"
 languageCode = "en-us"
 title = "Wilson Cai"
 theme = "hugo-material-docs"
