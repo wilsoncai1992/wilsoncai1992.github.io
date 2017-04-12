@@ -45,6 +45,9 @@ Here is the latest version of my [CV](./cv.pdf).
 
 ## SELECTED AWARDS
 
+- **Outstanding Graduate Student Instructor**, 03/2017<br>
+*University of California, Berkeley*
+
 - **JSM Student Travel Awards, SF Bay Area Chapter of the ASA**, 04/2016 \[[News](http://www.sfasa.org/June7_2016mtg.htm)\]<br>
 *SFASA*
 
