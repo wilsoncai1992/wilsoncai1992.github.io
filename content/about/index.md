@@ -34,12 +34,16 @@ Here is the latest version of my [CV](./cv.pdf).
 
 ## EXPERIENCE
 
-- **Precision Medicine Researcher**, 2017 - present<br> 
-*Bill \& Melinda Gates Foundation* <br> 
+- **Citadel LLC**, 05/2017 - present<br> 
+*Quantitative Researcher Intern* <br> 
+<blockquote>.</blockquote>
+
+- **Bill \& Melinda Gates Foundation**, 2017 - present<br> 
+*Precision Medicine Researcher* <br> 
 <blockquote>Wasting is a lack of growth in terms of weight/height among African children. I applied Targeted Learning to help better curing *individual children*.</blockquote>
 
-- **Data Analyst to President**, 2013 <br> 
-*China Europe International Business School* <br>
+- **China Europe International Business School**, 2013 <br> 
+*Data Analyst to President* <br>
 <blockquote>We are the first Chinese MBA program to integrate cutting-edge Big Data into curriculum.</blockquote>
 
 
