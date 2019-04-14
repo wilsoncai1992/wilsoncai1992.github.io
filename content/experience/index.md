@@ -1,7 +1,6 @@
 ---
 date: 2019-04-13T00:11:02+01:00
 title: Experience
-type: index
 ---
 
 ## INDUSTRY EXPERIENCE
