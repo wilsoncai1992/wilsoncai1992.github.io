@@ -1,4 +1,4 @@
-baseurl = "https://wilsoncai1992.github.io/"
+baseurl = "https://wilsoncai1992.github.io/public/"
 languageCode = "en-us"
 title = "Wilson Cai"
 theme = "hugo-material-docs"
