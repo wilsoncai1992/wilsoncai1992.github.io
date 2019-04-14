@@ -9,7 +9,9 @@ weight: 10
 <img style="float: left;margin:0 5rem 0 0" src="IMG_7950-2.jpg" width="35%" height="35%">
 <br>
 
-I am a second year Ph.D. student in [Biostatistics](http://www.stat.berkeley.edu/biostat) at [UC Berkeley](http://statistics.berkeley.edu/). I am fortunate to be advised by Professors [Mark van der Laan](http://www.stat.berkeley.edu/~laan/) and [Alan Hubbard](http://hubbard.berkeley.edu/). My research interests lie in **Statistical Machine Learning** and **Causal Inference**. 
+I am a Quantitative Researcher in Artificial Intelligence at Citadel. 
+
+I obtained my Ph.D. in [Biostatistics](http://www.stat.berkeley.edu/biostat) at [UC Berkeley](http://statistics.berkeley.edu/). I am fortunate to be advised by Professors [Mark van der Laan](http://www.stat.berkeley.edu/~laan/) and [Alan Hubbard](http://hubbard.berkeley.edu/). My research interests lie in **Machine Learning** and **Causal Inference**. 
 
 I graduated from [the Univeristy of Hong Kong](http://hku.hk) with a B.Sc. (Honors) in [Statistics](http://www.saasweb.hku.hk/) and double major in [Finance](http://fbe.hku.hk/). I was awarded the [Saw Gold Medal in Statistics](http://www.saasweb.hku.hk/programme/scholarship.php) (magna cum laude) and [Undergraduate Research Fellowship](http://tl.hku.hk/urfp/) during my graduation at HKU.
 
@@ -31,41 +33,6 @@ Here is the latest version of my [CV](./cv.pdf).
 
 - **University of California, Davis**, 2013 - 2014 <br>
 *Visiting Researcher*
-
-## EXPERIENCE
-
-- **Citadel LLC**, 05/2017 - present<br> 
-*Quantitative Researcher Intern* <br> 
-<blockquote>.</blockquote>
-
-- **Bill \& Melinda Gates Foundation**, 2017 - present<br> 
-*Precision Medicine Researcher* <br> 
-<blockquote>Wasting is a lack of growth in terms of weight/height among African children. I applied Targeted Learning to help better curing *individual children*.</blockquote>
-
-- **China Europe International Business School**, 2013 <br> 
-*Data Analyst to President* <br>
-<blockquote>We are the first Chinese MBA program to integrate cutting-edge Big Data into curriculum.</blockquote>
-
-
-## SELECTED AWARDS
-
-- **Outstanding Graduate Student Instructor**, 03/2017<br>
-*University of California, Berkeley*
-
-- **JSM Student Travel Awards, SF Bay Area Chapter of the ASA**, 04/2016 \[[News](http://www.sfasa.org/June7_2016mtg.htm)\]<br>
-*SFASA*
-
-- **Saw Gold Medal in Statistics**, 04/2016 <br>
-*University of Hong Kong*
-
-- **Saw See Hock Statistics Scholarship**, 02/2016 <br>
-*University of Hong Kong*
-
-- **Undergraduate Research Fellowship & Overseas Research Internship Award**, 01/2014 <br>
-*University of Hong Kong*
-
-- **C.V. Starr Scholarship**, 2013 <br>
-*University of Hong Kong*
 
 ## CONTACT
 
