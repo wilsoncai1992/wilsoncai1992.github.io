@@ -9,7 +9,7 @@ weight: 10
 <img style="float: left;margin:0 5rem 0 0" src="IMG_7950-2.jpg" width="35%" height="35%">
 <br>
 
-I am a Quantitative Researcher in Artificial Intelligence at Citadel. 
+<!-- I am a Quantitative Researcher in Artificial Intelligence at Citadel.  -->
 
 I obtained my Ph.D. in [Biostatistics](http://www.stat.berkeley.edu/biostat) at [UC Berkeley](http://statistics.berkeley.edu/). I am fortunate to be advised by Professors [Mark van der Laan](http://www.stat.berkeley.edu/~laan/) and [Alan Hubbard](http://hubbard.berkeley.edu/). My research interests lie in **Machine Learning** and **Causal Inference**. 
 
