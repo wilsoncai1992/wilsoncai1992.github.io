@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wilson Cai</title>
+    <link>https://wilsoncai1992.github.io/</link>
+    <description>Recent content on Wilson Cai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Apr 2019 00:11:02 +0100</lastBuildDate>
+    
+	<atom:link href="https://wilsoncai1992.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wilson (Weixin) Cai</title>
+      <link>https://wilsoncai1992.github.io/about/</link>
+      <pubDate>Wed, 09 Mar 2016 00:11:02 +0100</pubDate>
+      
+      <guid>https://wilsoncai1992.github.io/about/</guid>
+      <description>I am a Quantitative Researcher in Artificial Intelligence at Citadel.
+I obtained my Ph.D. in Biostatistics at UC Berkeley. I am fortunate to be advised by Professors Mark van der Laan and Alan Hubbard. My research interests lie in Machine Learning and Causal Inference.
+I graduated from the Univeristy of Hong Kong with a B.Sc. (Honors) in Statistics and double major in Finance. I was awarded the Saw Gold Medal in Statistics (magna cum laude) and Undergraduate Research Fellowship during my graduation at HKU.</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://wilsoncai1992.github.io/experience/</link>
+      <pubDate>Sat, 13 Apr 2019 00:11:02 +0100</pubDate>
+      
+      <guid>https://wilsoncai1992.github.io/experience/</guid>
+      <description>INDUSTRY EXPERIENCE  Citadel LLC, 07/2019 - present
+Quantitative Researcher .
+ Facebook, 07/2018 - 09/2018
+Core Data Science Intern, Adaptive Experimentation .
+ Citadel LLC, 05/2017 - 09/2018
+Quantitative Researcher Intern .
+  SELECTED AWARDS  Outstanding Graduate Student Instructor, 03/2017
+University of California, Berkeley
+ JSM Student Travel Awards, SF Bay Area Chapter of the ASA, 04/2016 [News]
+SFASA
+ Saw Gold Medal in Statistics, 04/2016 University of Hong Kong</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://wilsoncai1992.github.io/research/</link>
+      <pubDate>Fri, 23 Dec 2016 08:21:44 +0800</pubDate>
+      
+      <guid>https://wilsoncai1992.github.io/research/</guid>
+      <description>Publications  Cai, Weixin and van der Laan, Mark J., ``One-step targeted maximum likelihood estimator for survival curve&amp;rdquo;, To appear in Targeted Learning in Data Science: Causal Inference for Complex Longitudinal Studies. Springer, 2016. Cai, Weixin and van der Laan, Mark J., ``One-step targeted maximum likelihood for time-to-event outcomes&amp;rdquo;, In preparation, 2016. Cai, Weixin and Hubbard, Alan E., ``Data-adaptive statistics for multiple hypothesis testing in high-dimensional settings&amp;rdquo;, In preparation, 2016.</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://wilsoncai1992.github.io/software/</link>
+      <pubDate>Fri, 23 Dec 2016 08:12:30 +0800</pubDate>
+      
+      <guid>https://wilsoncai1992.github.io/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://wilsoncai1992.github.io/teach/</link>
+      <pubDate>Fri, 23 Dec 2016 08:12:18 +0800</pubDate>
+      
+      <guid>https://wilsoncai1992.github.io/teach/</guid>
+      <description> Courses Taught  PH 290: Big Data in Biostatistics, (Spring, 2016, Spring, 2017) with Prof. Lexin Li  Courses TA&amp;rsquo;ed  PH 295: Targeted Learning with Biomedical Big Data, (Fall, 2016) with Prof. Mark J. van der Laan  </description>
+    </item>
+    
+  </channel>
+</rss>
