@@ -3,20 +3,6 @@ date: 2019-04-13T00:11:02+01:00
 title: Experience
 ---
 
-## INDUSTRY EXPERIENCE
-
-- **Citadel LLC**, 07/2019 - present<br> 
-*Quantitative Researcher* <br> 
-<blockquote>.</blockquote>
-
-- **Facebook**, 07/2018 - 09/2018<br> 
-*Core Data Science Intern, Adaptive Experimentation* <br> 
-<blockquote>.</blockquote>
-
-- **Citadel LLC**, 05/2017 - 09/2018<br> 
-*Quantitative Researcher Intern* <br> 
-<blockquote>.</blockquote>
-
 ## SELECTED AWARDS
 
 - **Outstanding Graduate Student Instructor**, 03/2017<br>

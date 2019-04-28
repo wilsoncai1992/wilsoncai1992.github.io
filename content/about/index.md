@@ -11,7 +11,7 @@ weight: 10
 
 <!-- I am a Quantitative Researcher in Artificial Intelligence at Citadel.  -->
 
-I obtained my Ph.D. in [Biostatistics](http://www.stat.berkeley.edu/biostat) at [UC Berkeley](http://statistics.berkeley.edu/). I am fortunate to be advised by Professors [Mark van der Laan](http://www.stat.berkeley.edu/~laan/) and [Alan Hubbard](http://hubbard.berkeley.edu/). My research interests lie in **Machine Learning** and **Causal Inference**. 
+I obtained my Ph.D. in [Biostatistics](http://www.stat.berkeley.edu/biostat) at [UC Berkeley](http://statistics.berkeley.edu/). I am fortunate to be advised by Professors [Mark van der Laan](http://www.stat.berkeley.edu/~laan/) and [Alan Hubbard](http://hubbard.berkeley.edu/). My research interests lie in **Machine Learning** and **Causal Inference**.
 
 I graduated from [the Univeristy of Hong Kong](http://hku.hk) with a B.Sc. (Honors) in [Statistics](http://www.saasweb.hku.hk/) and double major in [Finance](http://fbe.hku.hk/). I was awarded the [Saw Gold Medal in Statistics](http://www.saasweb.hku.hk/programme/scholarship.php) (magna cum laude) and [Undergraduate Research Fellowship](http://tl.hku.hk/urfp/) during my graduation at HKU.
 
@@ -22,6 +22,21 @@ Here is the latest version of my [CV](./cv.pdf).
 
 <br>
 <br>
+
+## INDUSTRY EXPERIENCE
+
+- **Citadel LLC**, 07/2019 - present<br>
+*Quantitative Researcher* <br>
+<blockquote>.</blockquote>
+
+- **Facebook**, 07/2018 - 09/2018<br>
+*Core Data Science Intern, Adaptive Experimentation* <br>
+<blockquote>.</blockquote>
+
+- **Citadel LLC**, 05/2017 - 09/2018<br>
+*Quantitative Researcher Intern* <br>
+<blockquote>.</blockquote>
+
 
 ## EDUCATION
 

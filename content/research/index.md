@@ -19,15 +19,16 @@ title: Research
 
 
 
-1. **Symmetric Tensor Regression with Applications in Neuroimaging Data Analysis**, 08/2016 <br>
-Joint Statistics Meetings 2016, Chicago. [(Slides)](link) 
-
-2. **Symmetric Tensor Regression with Applications in Neuroimaging Data Analysis**, 06/2016 <br>
-SFASA award invited seminar, Stanford. [(Slides)](link) 
-
-3. **Symmetric Tensor Regression and Neuroimaging Data Analysis**, 03/2016 <br>
-BSTARS lightning talk, Berkeley. [(Slides)](link) 
-    
-4. **Oracally Efficient Spline Smoothing of Functional Coefficient Regression Models with Simultaneous Confidence Band**, 08/2014 <br>
-Joint Statistics Meetings 2014, Seattle. [(Slides)](link) 
+1. **Causal Inference based on Undersmoothing the Highly Adaptive Lasso**, 03/2019 <br>
+  AAAI Spring Symposium in "Beyond Curve Fitting", Stanford.
+2. **Adjusting time-varying treatment effects for rapid online experiments**, 10/2018 <br>
+  2018 Conference on Digital Experimentation (CODE), Boston.
+3. **Symmetric Tensor Regression with Applications in Neuroimaging Data Analysis**, 08/2016 <br>
+  Joint Statistics Meetings 2016, Chicago. [(Slides)](link)
+4. **Symmetric Tensor Regression with Applications in Neuroimaging Data Analysis**, 06/2016 <br>
+  SFASA award invited seminar, Stanford. [(Slides)](link)
+5. **Symmetric Tensor Regression and Neuroimaging Data Analysis**, 03/2016 <br>
+  BSTARS lightning talk, Berkeley. [(Slides)](link)
+6. **Oracally Efficient Spline Smoothing of Functional Coefficient Regression Models with Simultaneous Confidence Band**, 08/2014 <br>
+  Joint Statistics Meetings 2014, Seattle. [(Slides)](link)
 
