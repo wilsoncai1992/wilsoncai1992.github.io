@@ -27,17 +27,14 @@ I graduated from the Univeristy of Hong Kong with a B.Sc. (Honors) in Statistics
       <pubDate>Sat, 13 Apr 2019 00:11:02 +0100</pubDate>
       
       <guid>https://wilsoncai1992.github.io/experience/</guid>
-      <description>INDUSTRY EXPERIENCE  Citadel LLC, 07/2019 - present
-Quantitative Researcher .
- Facebook, 07/2018 - 09/2018
-Core Data Science Intern, Adaptive Experimentation .
- Citadel LLC, 05/2017 - 09/2018
-Quantitative Researcher Intern .
-  SELECTED AWARDS  Outstanding Graduate Student Instructor, 03/2017
+      <description>SELECTED AWARDS  Outstanding Graduate Student Instructor, 03/2017
 University of California, Berkeley
  JSM Student Travel Awards, SF Bay Area Chapter of the ASA, 04/2016 [News]
 SFASA
- Saw Gold Medal in Statistics, 04/2016 University of Hong Kong</description>
+ Saw Gold Medal in Statistics, 04/2016 University of Hong Kong
+ Saw See Hock Statistics Scholarship, 02/2016 University of Hong Kong
+ Undergraduate Research Fellowship &amp;amp; Overseas Research Internship Award, 01/2014 University of Hong Kong
+ C.V. Starr Scholarship, 2013 University of Hong Kong</description>
     </item>
     
     <item>
@@ -55,7 +52,7 @@ SFASA
       <pubDate>Fri, 23 Dec 2016 08:12:30 +0800</pubDate>
       
       <guid>https://wilsoncai1992.github.io/software/</guid>
-      <description></description>
+      <description> TMLEbootstrap: Bootstrap Confidence Intervals For Targeted Maximum Likelihood Estimators MOSS (Model One-Step Survival): one-step TMLE for survival curve ctmle3: A modern implementation of the Collaborative Targeted Maximum Likelihood Estimator (C-TMLE) algorithm  </description>
     </item>
     
     <item>
@@ -64,7 +61,7 @@ SFASA
       <pubDate>Fri, 23 Dec 2016 08:12:18 +0800</pubDate>
       
       <guid>https://wilsoncai1992.github.io/teach/</guid>
-      <description> Courses Taught  PH 290: Big Data in Biostatistics, (Spring, 2016, Spring, 2017) with Prof. Lexin Li  Courses TA&amp;rsquo;ed  PH 295: Targeted Learning with Biomedical Big Data, (Fall, 2016) with Prof. Mark J. van der Laan  </description>
+      <description> Courses Taught  PH 290: Big Data in Biostatistics, ([Spring, 2016](), Spring, 2017) with Prof. Lexin Li  Courses TA&amp;rsquo;ed  PH 295: Targeted Learning with Biomedical Big Data, (Fall, 2016) with Prof. Mark J. van der Laan  </description>
     </item>
     
   </channel>
