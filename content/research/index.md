@@ -17,8 +17,6 @@ title: Research
 
 ## Talks/Slides
 
-
-
 1. **Causal Inference based on Undersmoothing the Highly Adaptive Lasso**, 03/2019 <br>
   AAAI Spring Symposium in "Beyond Curve Fitting", Stanford.
 2. **Adjusting time-varying treatment effects for rapid online experiments**, 10/2018 <br>

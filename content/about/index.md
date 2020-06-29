@@ -17,9 +17,6 @@ I graduated from [the Univeristy of Hong Kong](http://hku.hk) with a B.Sc. (Hono
 
 Prior to joining UC Berkeley, I was a visiting researcher at [UC Davis](http://www.stat.ucdavis.edu/) working with [Prabir Burman](http://www.stat.ucdavis.edu/~burman/). I also worked under the able guidance of [Prof. Alexander Aue](http://www.stat.ucdavis.edu/~alexaue/) and [Prof. Debashis Paul](http://www.stat.ucdavis.edu/~debashis/).
 
-
-Here is the latest version of my [CV](./cv.pdf).
-
 <br>
 <br>
 
